@@ -17,6 +17,8 @@ Wow! What a great:
 
 [ ] Screenshot of two ships clipping into each other with a humorous title implying they are mating
 
+[ ] Screenshot of two ships with a humorous title mentioning a doubling
+
 [ ] Screenshot of the ID of the signatures in your probe scanner with words that imply a sexual act
 
 [ ] Question about whether you should get back into Eve after X years 
